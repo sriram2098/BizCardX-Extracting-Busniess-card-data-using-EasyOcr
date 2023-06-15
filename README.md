@@ -1,0 +1,1 @@
+# BizCardX-Extracting-Busniess-card-data-using-EasyOcr
